@@ -3,6 +3,7 @@ public class Employee {
 	
 	private Integer id;
 	private String name;
+	private String departmentName;
 	private String emailId;
 	private Address address;
 	
